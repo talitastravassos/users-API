@@ -40,7 +40,7 @@
       "id": 5,
       "nome": "Camila",
       "sobrenome": "Lindoso Cortez",
-      "tipoUsuario": "Usuário padrão",
+      "tipoUsuario": "Administrador",
       "email": "usuario5@email.com.br",
       "password": "123445",
       "ativo": true
@@ -67,10 +67,19 @@
       "id": 8,
       "nome": "Maria",
       "sobrenome": "Clara Araujo Martins",
-      "tipoUsuario": "Administrador",
+      "tipoUsuario": "Usuário padrão",
       "email": "usuario8@email.com.br",
       "password": "123445",
-      "ativo": false
+      "ativo": true
+    },
+    {
+      "id": 9,
+      "nome": "Francisca",
+      "sobrenome": "Maria",
+      "email": "etc@email.com",
+      "tipoUsuario": "Administrador",
+      "ativo": true,
+      "password": "123445"
     }
   ]
 }
